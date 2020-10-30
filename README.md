@@ -88,14 +88,19 @@
 Python programming, Development software, CRM systems development,
 automation, AI development, Information technology, Django, HTML, PHP, CSS, JS, TS,
 Nginx, GO lang, Borland Delphi, GIT, SQL, Java, c++ , c# , NET Framework,
-ASP.NET, Linux, AzureDevOps, MongoDB, React, Angular, Docker, 
+ASP.NET, Linux, AzureDevOps, MongoDB, React, Angular, Docker.
+
 I have some experience in developing an android app.
-I have experience with programs such as Photoshop, CorelDraw, SolidWorks,
-3DMax, SketchUp, Blender.
+
+I have experience with programs such as Photoshop, CorelDraw, SolidWorks, 3DMax, SketchUp, Blender.
+
 I have experience with equipment Delta / Omron controller programming.
+
 I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 
 ## Knowledge of languages:
 Russian – Native
+
 English – Medium
+
 learning Romanian language.
