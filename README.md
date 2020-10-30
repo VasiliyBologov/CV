@@ -101,6 +101,6 @@ I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 ## Knowledge of languages:
 Russian – Native
 
-English – Medium
+English – B1(pre-Intermediate-plus)
 
 learning Romanian language.
