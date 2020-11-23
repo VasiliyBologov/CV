@@ -41,7 +41,7 @@
 
 |Organization:| Sberbank-Service|
 |:--|:--|
-|Position: Senior engineer|
+|Position:| Senior engineer|
 |Activity in organizations:|Deputy Head of support for POS terminal equipment and on-line cash.|
 |Period:| June 2015 - November 2019|
 
@@ -56,6 +56,12 @@
 |Position:| Account Manager|
 |Activity in organizations:|Workflow organization|
 |Period:| March 2014 - May 2015|
+
+|Organization:| LLC KITEZH|
+|:--|:--|
+|Position:| Realtor's assistant|
+|Activity in organizations:|Workflow organization|
+|Period:| March 2014 - December 2014|
 
 |Organization:| Prom Intellect LLC|
 |:--|:--|
