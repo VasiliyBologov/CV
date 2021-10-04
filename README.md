@@ -109,3 +109,26 @@ learning Romanian language.
   |:--|:--|
   |studying time |2015 - 2016|
   |direction of study |Faculty of computer science. Department of Informatics.|
+  
+# **Certs:**
+
+## MongoDB proof of completions:
+  ### M001: MongoDB Basics
+  ![](https://github.com/VasiliyBologov/CV/blob/master/M001_proof_of_completion.jpg)
+  https://university.mongodb.com/courses/M001/2020_August_18/completion
+  
+  ### M103: Basic Cluster Administration
+  ![](https://github.com/VasiliyBologov/CV/blob/master/M103_proof_of_completion.jpg)
+  https://university.mongodb.com/courses/M103/2021_June_8/completion
+
+  ### M121: The MongoDB Aggregation Framework
+  ![](https://github.com/VasiliyBologov/CV/blob/master/M121_proof_of_completion.jpg)
+  https://university.mongodb.com/courses/M121/2021_June_29/completion
+  
+  ### M220P: MongoDB for Python Developers
+  ![](https://github.com/VasiliyBologov/CV/blob/master/M220P_proof_of_completion.jpg)
+  https://university.mongodb.com/courses/M220P/2021_July_6/completion
+  
+## EF SET Certificate English level B1: 
+  ![](https://github.com/VasiliyBologov/CV/blob/master/EF%20SET%20Certificate_page-0001.jpg)
+  https://www.efset.org/cert/FtrARr
