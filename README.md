@@ -114,21 +114,21 @@ learning Romanian language.
 
 ## MongoDB proof of completions:
   ### M001: MongoDB Basics
-  ![](https://github.com/VasiliyBologov/CV/blob/master/M001_proof_of_completion.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/c2bfc280fd6f81cbf059f9efcebd3e2a0dcd2250/M001_proof_of_completion.jpg)
   https://university.mongodb.com/course_completion/34105fc0-bea7-4e12-9b5d-64ace84ce9e4?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing
   
   ### M103: Basic Cluster Administration
-  ![](https://github.com/VasiliyBologov/CV/blob/master/M103_proof_of_completion.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/c2bfc280fd6f81cbf059f9efcebd3e2a0dcd2250/M103_proof_of_completion.jpg)
   https://university.mongodb.com/course_completion/97d7e2a7-dcb7-4351-922d-adbd1cb89a56?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing
 
   ### M121: The MongoDB Aggregation Framework
-  ![](https://github.com/VasiliyBologov/CV/blob/master/M121_proof_of_completion.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/c2bfc280fd6f81cbf059f9efcebd3e2a0dcd2250/M121_proof_of_completion.jpg)
   https://university.mongodb.com/course_completion/2039095a-0de4-455e-b245-9c3545288c98?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing
   
   ### M220P: MongoDB for Python Developers
-  ![](https://github.com/VasiliyBologov/CV/blob/master/M220P_proof_of_completion.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/c2bfc280fd6f81cbf059f9efcebd3e2a0dcd2250/M220P_proof_of_completion.jpg)
   https://university.mongodb.com/course_completion/343a7147-b8a4-42a2-8be5-6e04c98434d3?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing
   
 ## EF SET Certificate English level B1: 
-  ![](https://github.com/VasiliyBologov/CV/blob/master/EF%20SET%20Certificate_page-0001.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/c2bfc280fd6f81cbf059f9efcebd3e2a0dcd2250/EF%20SET%20Certificate_page-0001.jpg)
   https://www.efset.org/cert/FtrARr
