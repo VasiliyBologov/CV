@@ -111,7 +111,7 @@ learning Romanian language.
   |:--|:--|
   |studying time |2015 - 2016|
   |direction of study |Faculty of computer science. Department of Informatics.|
-  
+***
 # **Certs:**
 
 ## MongoDB proof of completions:
