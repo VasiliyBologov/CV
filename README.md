@@ -16,11 +16,11 @@ Python, Django, Flask, FastAPI, MongoDB, GIT, Docker, Azure/AzureDevOps, Linux.
 # **Other skills and expiriance in:**
 Web Application Development, Server Application Development, CRM systems development, 
 Automation, AI development, Selenium, Nginx, GO lang, Borland Delphi, 
-MySQL, Sqlite3, PostgresDB, Java, c++ , c# , NET Framework, Desktop Apps
+MySQL, Sqlite3, PostgresDB, Java, C++ , C# , .NET Framework, Desktop Apps
 ASP.NET, React, Angular, AndriodDevelopment(Kotlin), Swift, HTML, CSS, JS, TS,
-Apach SOLR, SonarQube, 
+Apach SOLR, SonarQube.
 
-I have experience with equipment Delta / Omron controller programming.
+I have experience with equipment Delta/Omron controller programming.
 
 I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 
@@ -35,9 +35,11 @@ learning Romanian language.
 |Organization:| Amdaris SRL |
 |:--|:--|
 |Position:|Software Developer|
-|Activity in organizations:| Python software development; C # software development; JS / TS software development.|
+|Activity in organizations:| Python software development; .NET software development; JS/TS software development.|
 ||Served as a technical lead in some projects.|
 ||Participation in the development of the ML algorithm on an internal project.|
+||Development of components integrated with the client application
+||Monitoring and structuring the development sequence of internal projects
 |Period:| June 2020 - present time|
 
 |Organization:| XOR.AI|
@@ -102,7 +104,7 @@ learning Romanian language.
 
   |university |Branch of Moscow State Technical University N.E. Bauman,Kaluga|
   |:--|:--|
-  |studying time| 2019 - 2014|
+  |studying time| 2009 - 2014|
   |direction of study |Faculty of Electronics, Informatics and Management. Departmentof Computer.|
 
   |university| Tula State University, Tula|
