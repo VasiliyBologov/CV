@@ -2,8 +2,7 @@
 |  |  |
 |:--|:--|
 |Date of birth| April 29, 1992|
-|Contact|+7 (920) 8978499 – for social network|
-||+373 (78) 228638 – for calls|
+||+373 (78) 228638 – for calls and social network|
 |Email|vasiliybologov@gmail.com|
 |Citizenship| Russian Federation|
 |Residence Permit|Republic of Moldova|
@@ -32,6 +31,12 @@ English – B1(Intermediate)
 learning Romanian language.
 
 ## **Work Experiences**
+|Organization:| Simpals |
+|:--|:--|
+|Position:| Software Developer|
+|Activity in organizations:| Software Development, creating web applications.|
+|Period:| January 2022 - present time |
+
 |Organization:| Amdaris SRL |
 |:--|:--|
 |Position:|Software Developer|
@@ -40,7 +45,7 @@ learning Romanian language.
 ||Participation in the development of the ML algorithm on an internal project.|
 ||Development of components integrated with the client application
 ||Monitoring and structuring the development sequence of internal projects
-|Period:| June 2020 - present time|
+|Period:| June 2020 - December 2021|
 
 |Organization:| XOR.AI|
 |:--|:--|
