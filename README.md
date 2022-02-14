@@ -23,6 +23,10 @@ I have experience with equipment Delta/Omron controller programming.
 
 I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 
+# **Skills in progress education:**
+
+Machine learning, neural networks, artificial intelligence
+
 ## Knowledge of languages:
 Russian – Native
 
