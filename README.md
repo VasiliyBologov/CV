@@ -142,4 +142,6 @@ learning Romanian language.
   
 ## EF SET Certificate English level B1: 
   ![](https://github.com/VasiliyBologov/CV/blob/f89c281da1f94c96c55226d018a3ba0d20a0141a/Certs/EF_SET/EF%20SET%20Certificate_page-0001.jpg)
+## EF SET Certificate English level B2: 
+  ![](https://github.com/VasiliyBologov/CV/blob/4b2ee7e161e133024cdb6d6707dacc8467e42ed8/Certs/EF%20SET%20Certificate.pdf)
   https://www.efset.org/cert/FtrARr
