@@ -141,7 +141,7 @@ learning Romanian language.
   https://university.mongodb.com/course_completion/343a7147-b8a4-42a2-8be5-6e04c98434d3
   
 ## EF SET Certificate English level B1: 
-  ![](https://github.com/VasiliyBologov/CV/blob/f89c281da1f94c96c55226d018a3ba0d20a0141a/Certs/EF_SET/EF%20SET%20Certificate_page-0001.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B1.jpg)
 ## EF SET Certificate English level B2: 
-  ![](https://github.com/VasiliyBologov/CV/blob/4b2ee7e161e133024cdb6d6707dacc8467e42ed8/Certs/EF%20SET%20Certificate.pdf)
+  ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B2.jpg)
   https://www.efset.org/cert/FtrARr
