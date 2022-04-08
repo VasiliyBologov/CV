@@ -141,7 +141,7 @@ learning Romanian language.
   https://university.mongodb.com/course_completion/343a7147-b8a4-42a2-8be5-6e04c98434d3
   
   ### M201: MongoDB Performance
-  ![](https://github.com/VasiliyBologov/CV/blob/f89c281da1f94c96c55226d018a3ba0d20a0141a/Certs/MongoDB/M220P_proof_of_completion.jpg)
+  ![](https://github.com/VasiliyBologov/CV/blob/19082a995527933ac189f19f5197c083b0dc4e6b/Certs/MongoDB/M201_proof_of_completion.jpeg)
   https://university.mongodb.com/course_completion/7d3eea91-c310-473a-8a44-edde54c14732
 
 
