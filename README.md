@@ -145,7 +145,7 @@ learning Romanian language.
   https://university.mongodb.com/course_completion/7d3eea91-c310-473a-8a44-edde54c14732
 
   ## M320: Data Modeling
-  ![](https://github.com/VasiliyBologov/CV/blob/19082a995527933ac189f19f5197c083b0dc4e6b/Certs/MongoDB/M201_proof_of_completion.jpeg)
+  ![](https://github.com/VasiliyBologov/CV/blob/a8eb79137915756a14b8117d960dda9ad25d4f05/Certs/MongoDB/M320_proof_of_completion.jpeg)
   https://university.mongodb.com/course_completion/aa998da2-dab4-4d52-9f84-4826a6b7094a
 
   ## EF SET Certificate English level B1: 
