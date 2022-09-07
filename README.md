@@ -25,7 +25,7 @@ I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 ## Knowledge of languages:
 Russian – Native
 
-English – B1
+English – B2
 
 Romanian - A1
 
@@ -154,8 +154,6 @@ Romanian - A1
   ![](https://github.com/VasiliyBologov/CV/blob/a8eb79137915756a14b8117d960dda9ad25d4f05/Certs/MongoDB/M320_proof_of_completion.jpeg)
   https://university.mongodb.com/course_completion/aa998da2-dab4-4d52-9f84-4826a6b7094a
 
-  ## EF SET Certificate English level B1: 
-  ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B1.jpg)
   ## EF SET Certificate English level B2: 
   ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B2.jpg)
   https://www.efset.org/cert/FtrARr
