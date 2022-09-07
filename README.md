@@ -34,7 +34,7 @@ Romanian - A1
 |:--|:--|
 |Position:| Software Developer|
 |Activity in organizations:| Software Development, creating web applications.|
-|| Starting three projects from scratch to MWP as a fullstack dev and architect|
+|| Starting three projects from scratch to MVP as a fullstack dev and architect|
 || Support for major products such as 999.md, business.999.md, Marketplace and internal projects|
 |Period:| January 2022 - present time |
 
