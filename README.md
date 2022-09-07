@@ -8,38 +8,44 @@
 |Residence Permit|Republic of Moldova|
 
 ***
-# **General skills:**
+# **Technologies with which the greatest experience (the most interesting for me):**
 
-Python, Django, Flask, FastAPI, MongoDB, GIT, Docker, Azure/AzureDevOps, Linux.
+Python, FastAPI, MongoDB, GIT, Docker, Azure/AzureDevOps, Linux.
 
 # **Other skills and expiriance in:**
 Web Application Development, Server Application Development, CRM systems development, 
-Automation, AI development, Selenium, Nginx, GO lang, Borland Delphi, 
-MySQL, Sqlite3, PostgresDB, Java, C++ , C# , .NET Framework, Desktop Apps
+Automation, AI development, Selenium, Nginx, Django, Flask, GO lang, Borland Delphi, 
+MySQL, Sqlite3, MSQL, PostgresDB, Java, C++ , C# , .NET Framework, Desktop Apps
 ASP.NET, React, Angular, AndriodDevelopment(Kotlin), Swift, HTML, CSS, JS, TS,
-Apach SOLR, SonarQube.
-
+Apach SOLR, SonarQube, ElasticSearch, Tornado, GraphQL, Blockchain as security.
 I have experience with equipment Delta/Omron controller programming.
-
 I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 
-# **Skills in progress education:**
-
-Machine learning, neural networks, artificial intelligence
 
 ## Knowledge of languages:
 Russian – Native
 
-English – B1(Intermediate)
+English – B1
 
-learning Romanian language.
+Romanian - A1
 
 ## **Work Experiences**
-|Organization:| Simpals |
+|Organization:| Simpals SRL |
 |:--|:--|
 |Position:| Software Developer|
 |Activity in organizations:| Software Development, creating web applications.|
+|| Starting three projects from scratch to MWP as a fullstack dev and architect|
+|| Support for major products such as 999.md, business.999.md, Marketplace and internal projects|
 |Period:| January 2022 - present time |
+
+|Organization:| Giter Parfum |
+|:--|:--|
+|Position:|CTO and Head of Development|
+|Activity in organizations:| Transition of all sustainable applications to cloud solutions. |
+||Managing the support of existing systems and the development of new applications. |
+||Full stack software development |
+||Team lead |
+|Period:| January 2021 - present time|
 
 |Organization:| Amdaris SRL |
 |:--|:--|
@@ -47,8 +53,8 @@ learning Romanian language.
 |Activity in organizations:| Python software development; .NET software development; JS/TS software development.|
 ||Served as a technical lead in some projects.|
 ||Participation in the development of the ML algorithm on an internal project.|
-||Development of components integrated with the client application
-||Monitoring and structuring the development sequence of internal projects
+||Development of components integrated with the client application|
+||Monitoring and structuring the development sequence of internal projects|
 |Period:| June 2020 - December 2021|
 
 |Organization:| XOR.AI|
