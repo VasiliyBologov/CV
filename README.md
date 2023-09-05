@@ -10,14 +10,15 @@
 ***
 # **Technologies with which the greatest experience (the most interesting for me):**
 
-Python, FastAPI, MongoDB, GIT, Docker, Azure/AzureDevOps, Linux.
+Python, Golang, FastAPI, MongoDB, GIT, Docker, Azure/AzureDevOps, Linux.
 
 # **Other skills and expiriance in:**
 Web Application Development, Server Application Development, CRM systems development, 
-Automation, AI development, Selenium, Nginx, Django, Flask, GO lang, Borland Delphi, 
-MySQL, Sqlite3, MSQL, PostgresDB, Java, C++ , C# , .NET Framework, Desktop Apps
+Automation, AI development, Selenium, Nginx, Django, Flask, Tornado, Borland Delphi, 
+MySQL, Sqlite3, MSSQL, PostgresDB, Java, C++ , C# , .NET Framework, Desktop Apps
 ASP.NET, React, Angular, AndriodDevelopment(Kotlin), Swift, HTML, CSS, JS, TS,
-Apach SOLR, SonarQube, ElasticSearch, Tornado, GraphQL, Blockchain as security.
+Apach SOLR, SonarQube, ElasticSearch, REST, GraphQL, GRPC, Blockchain as security, 
+RabbinMQ, Microservices, GitlabCI.
 I have experience with equipment Delta/Omron controller programming.
 I have experience with equipment VeryFone, Ingenoco, PAX Tehnology.
 
@@ -30,13 +31,22 @@ English – B2
 Romanian - A1
 
 ## **Work Experiences**
+
+|Organization:| Simpals SRL |
+|:--|:--|
+|Position:| Senior Backend Developer|
+|Activity in organizations:| Software Development, creating web applications.|
+|| Rewriting old services From Pyton to Golang. |
+|| Support for major products, redefining the architecture, introducing new services|
+|Period:| May 2023 - present time |
+
 |Organization:| Simpals SRL |
 |:--|:--|
 |Position:| Software Developer|
 |Activity in organizations:| Software Development, creating web applications.|
 || Starting three projects from scratch to MVP as a fullstack dev and architect|
 || Support for major products such as 999.md, business.999.md, Marketplace and internal projects|
-|Period:| January 2022 - present time |
+|Period:| January 2022 - May 2023 |
 
 |Organization:| Giter Parfum |
 |:--|:--|
@@ -157,3 +167,7 @@ Romanian - A1
   ## EF SET Certificate English level B2: 
   ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B2.jpg)
   https://www.efset.org/cert/FtrARr
+
+  ## EF SET Certificate Romanian level A1: 
+  ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/Other/CERT_RO.jpg)
+
