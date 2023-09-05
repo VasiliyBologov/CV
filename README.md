@@ -168,6 +168,6 @@ Romanian - A1
   ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B2.jpg)
   https://www.efset.org/cert/FtrARr
 
-  ## EF SET Certificate Romanian level A1: 
+  ## ORATORICA Certificate Romanian level A1: 
   ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/Other/CERT_RO.jpg)
 
