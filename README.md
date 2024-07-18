@@ -28,7 +28,7 @@ Russian – Native
 
 English – B2
 
-Romanian - A1
+Romanian - A2
 
 ## **Work Experiences**
 
@@ -170,4 +170,14 @@ Romanian - A1
 
   ## ORATORICA Certificate Romanian level A1: 
   ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/Other/CERT_RO.jpg)
+
+  ## SIMPALS Certificate of completion: Навыки работы с командой: 
+  ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/simpals/19-03-2024.jpg)
+
+  ## SIMPALS Certificate of completion: Soft Skills: Лидерство: 
+  ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/simpals/26-04-24-lead.jpg)
+
+  ## SIMPALS Certificate of completion: Бизнес тайм-менеджмент: 
+  ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/simpals/26-04-2024-time.jpg)
+
 
