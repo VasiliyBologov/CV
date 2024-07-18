@@ -124,6 +124,21 @@ Romanian - A2
 |Activity in organizations:|Testing the performance of manufactured devices|
 |Period:| September 2011 - June 2012|
 ***
+## **Conferences, speeches:**
+  |                       | Chisinau                                           |
+  |:----------------------|:---------------------------------------------------|
+  | theme                 | AI in Python                                       |
+  | Moldova Python MeetUp | 2020                                               |
+  | link                  | https://www.facebook.com/share/p/uPVdFPZKbvbu4siB/ |
+  | status                | Canceled                                           |
+
+  |                       | Chisinau                                                                  |
+  |:----------------------|:--------------------------------------------------------------------------|
+  | theme                 | Managin technical debt and modernizing old services                       |
+  | Moldova Python MeetUp | 2023                                                                      |
+  | link                  | https://www.linkedin.com/feed/update/urn:li:activity:7111970710557761536/ |
+  | status                | Success                                                                   |
+***
 ## **Education:**
   > **Incomplete higher education:**
 
