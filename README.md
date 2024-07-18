@@ -127,17 +127,17 @@ Romanian - A2
 ## **Conferences, speeches:**
   |                       | Chisinau                                           |
   |:----------------------|:---------------------------------------------------|
-  | theme                 | AI in Python                                       |
+  | Theme                 | AI in Python                                       |
   | Moldova Python MeetUp | 2020                                               |
-  | link                  | https://www.facebook.com/share/p/uPVdFPZKbvbu4siB/ |
-  | status                | Canceled                                           |
+  | Link                  | https://www.facebook.com/share/p/uPVdFPZKbvbu4siB/ |
+  | Status                | Canceled                                           |
 
-  |                       | Chisinau                                                                  |
-  |:----------------------|:--------------------------------------------------------------------------|
-  | theme                 | Managin technical debt and modernizing old services                       |
-  | Moldova Python MeetUp | 2023                                                                      |
-  | link                  | https://www.linkedin.com/feed/update/urn:li:activity:7111970710557761536/ |
-  | status                | Success                                                                   |
+  |                     | Chisinau                                                                  |
+  |:--------------------|:--------------------------------------------------------------------------|
+  | Theme               | Managin technical debt and modernizing old services                       |
+  | IT Career Expo 2023 | 2023                                                                      |
+  | Link                | https://www.linkedin.com/feed/update/urn:li:activity:7111970710557761536/ |
+  | Status              | Success                                                                   |
 ***
 ## **Education:**
   > **Incomplete higher education:**
