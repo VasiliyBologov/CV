@@ -1,0 +1,46 @@
+Senior Python Engineer
+Company: Digital & Information Office
+Function: DEV - Developer Specific
+Contact: Iulia Ionesie
+Work location: Chisinau
+
+Introduction
+We are looking for motivated Python engineers who are eager to grow their technical skills within an experienced and collaborative team. In this role, you will contribute to building backend services, work with modern cloud technologies, and have the opportunity to gain exposure to frontend development (React).
+
+You’ll benefit from strong coaching, regular peer reviews, and continuous learning opportunities in a supportive environment.
+
+
+Function
+Contribute to continuous improvement of the system design, ensuring long‑term maintainability, scalability, and reliability.
+Contribute to the development of backend services using Python
+Work with frameworks such as Django or Flask
+Build and maintain containerized applications using Docker
+Work with relational and NoSQL databases
+Participate in code reviews and continuously improve your skills
+Collaborate closely with team members using tools like Jira and GitLab
+
+Requirements
+5+  years of experience in software development
+Solid knowledge of Python
+Willingness to learn frameworks such as Django, Flask, and SQLAlchemy
+Interest in both backend and frontend development (React is a plus)
+Understanding of databases such as MySQL, PostgreSQL, CosmosDB, or MongoDB
+Curiosity and willingness to learn DevOps tools and cloud technologies
+Strong motivation to grow in a supportive team environment
+Very good command of English (written and spoken)
+
+Offer
+28 days as Annual Vacation
+6 bonus days per year, which are not carried over to the next year
+A seniority day added every 3 years in the company
+Meal vouchers and sports compensation
+Medical Insurance at Grawe Carat
+Performance-based annual bonus linked to the individual performance review and the company’s performance
+Referral bonuses from 400 EUR to 1000 EUR
+Financial support for special events
+Internal mobility and the possibility to work remotely
+Learning and development opportunities – budget allocated for certifications and/or trainings
+Wellbeing sessions, team get-togethers, and parties – building moments that matter
+
+Closing date
+25-05-2026

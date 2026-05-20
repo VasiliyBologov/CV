@@ -28,7 +28,7 @@ Senior Backend Developer with over 10 years of experience in architecting and im
 ## **Languages**
 - **Russian:** Native
 - **English:** B2 (Upper Intermediate)
-- **Romanian:** A2 (Elementary)
+- **Romanian:** B1 (Intermediate)
 
 ## **Work Experiences**
 
@@ -192,7 +192,7 @@ Senior Backend Developer with over 10 years of experience in architecting and im
   ![](https://github.com/VasiliyBologov/CV/blob/aca195808eeaf8fca1f0b165ad517764204a99bd/Certs/EF_SET/EF%20SET%20Certificate_B2.jpg)
   https://www.efset.org/cert/FtrARr
 
-  ## ORATORICA Certificate Romanian level A1: 
+  ## ORATORICA Certificate Romanian level B1: 
   ![](https://github.com/VasiliyBologov/CV/blob/fd81d337839dfa971bdce344ba4a09403a13d9dc/Certs/Other/CERT_RO.jpg)
 
   ## SIMPALS Certificate of completion: Навыки работы с командой: 
