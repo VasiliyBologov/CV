@@ -2,7 +2,7 @@
 |  |  |
 |:--|:--|
 |Position| **Senior Backend Developer** |
-|Location| Chişinău, Moldova |
+|Location| Chisinau, Moldova |
 |Email| vasiliybologov@gmail.com |
 |Phone| +373 (78) 228638 |
 
@@ -28,7 +28,7 @@ Senior Backend Developer with over 10 years of experience in architecting and im
 ## **Languages**
 - **Russian:** Native
 - **English:** B2 (Upper Intermediate)
-- **Romanian:** A2 (Elementary)
+- **Romanian:** B1 
 
 ## **Work Experiences**
 

@@ -1,0 +1,82 @@
+Remote Golang Backend Engineers wanted
+An exciting opportunity for two experienced Golang Backend
+Engineers to work remotely on the application of one of our clients,
+an industry-leading global financial institution.
+We are seeking an experienced Backend Engineer with a strong
+background in fintech and trading systems development. The ideal
+candidate will have deep expertise in designing, integrating, and
+maintaining large-scale backend architectures for CFD, FX, and
+crypto trading platforms.
+This role requires a highly analytical and detail-oriented engineer
+capable of building scalable, secure, and high-performance backend
+systems. You will work closely with architects, product managers, and
+operations teams to deliver robust infrastructure powering our client
+global trading ecosystem.
+Working for Coremaker
+At Coremaker we’ve created a friendly and collaborative team that
+always strives to help one another. Working for us will give you the
+chance to work on the best technologies with some of the most
+innovative businesses within the industry. Not only that, but our close
+knit community will provide you with ample opportunity to learn,
+develop and most of all, love what you do.
+Key Responsibilities
+●
+Design, develop, and maintain scalable backend solutions for
+CFD, FX, and crypto trading platforms.
+●
+Collaborate with architects, product managers, and engineering
+teams to design robust, secure, and efficient systems.
+●
+●
+●
+●
+●
+Build RESTful and event-driven APIs consumed by web and
+mobile applications.
+Implement caching strategies and optimize database queries
+for performance.
+Work with message queues (Kafka, RabbitMQ) for asynchronous
+processing.
+Ensure system reliability, monitoring, and incident response.
+Test, debug, and optimize backend applications to ensure
+stability and responsiveness.
+Qualifications & Skills
+●
+5+ years of professional Golang experience building low latency
+software including lock free programming, GC tuning and Go
+generics.
+●
+Experience with microservices architecture and RESTful API
+design.
+●
+Proficiency with SQL and NoSQL databases (PostgreSQL,
+MongoDB, Redis).
+●
+Understanding of message queues and event-driven
+architectures.
+●
+Experience with cloud platforms (AWS, Azure, or GCP) and
+containerization (Docker, Kubernetes).
+●
+Fintech or high-volume transaction processing experience
+preferred.
+●
+Strong problem-solving and debugging skills with a focus on
+high reliability and performance.
+●
+Excellent communication and teamwork skills.
+●
+Great attention to detail.
+●
+English speaking.
+Benefits
+●
+●
+●
+●
+●
+Working with an experienced team of developers
+Room to learn and progress
+Technical trainings
+25,000-38,000 RON gross per month
+Working for an exciting innovative company

@@ -1,0 +1,221 @@
+    INFO: 2026-05-26 17:07:39,158:               log.py:   20: Logging to /Users/bologov/GolandProjects/GP/CV/mdpdf.log
+   DEBUG: 2026-05-26 17:07:39,158:               cli.py:  103: /Users/bologov/GolandProjects/GP/CV/Vasilii_Bologov_CV_Golang_Fintech.md
+    INFO: 2026-05-26 17:07:39,166:         converter.py:   14: /Users/bologov/GolandProjects/GP/CV/Vasilii_Bologov_CV_Golang_Fintech.md
+   DEBUG: 2026-05-26 17:07:39,175:      pdf_renderer.py:  470: printSegment: Vasilii Bologov
+   DEBUG: 2026-05-26 17:07:39,180:      pdf_renderer.py:  470: printSegment: Senior Golang Backend Engineer
+   DEBUG: 2026-05-26 17:07:39,181:      pdf_renderer.py:  470: printSegment: Location:
+   DEBUG: 2026-05-26 17:07:39,183:      pdf_renderer.py:  470: printSegment:  Chisinau, Moldova
+   DEBUG: 2026-05-26 17:07:39,185:      pdf_renderer.py:  470: printSegment: Email:
+   DEBUG: 2026-05-26 17:07:39,186:      pdf_renderer.py:  470: printSegment:  vasiliybologov@gmail.com
+   DEBUG: 2026-05-26 17:07:39,186:      pdf_renderer.py:  470: printSegment: Phone:
+   DEBUG: 2026-05-26 17:07:39,187:      pdf_renderer.py:  470: printSegment:  +373 (78) 228638
+   DEBUG: 2026-05-26 17:07:39,187:      pdf_renderer.py:  470: printSegment: LinkedIn:
+   DEBUG: 2026-05-26 17:07:39,188:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,188:      pdf_renderer.py:  470: printSegment: linkedin.com/in/vasilii-bologov
+   DEBUG: 2026-05-26 17:07:39,189:      pdf_renderer.py:  470: printSegment: Summary
+   DEBUG: 2026-05-26 17:07:39,192:      pdf_renderer.py:  470: printSegment: Senior Backend Engineer with over 10 years of experience in architecting and implementing scalable distributed
+   DEBUG: 2026-05-26 17:07:39,192:      pdf_renderer.py:  470: printSegment: systems. Expert in 
+   DEBUG: 2026-05-26 17:07:39,193:      pdf_renderer.py:  470: printSegment: Golang
+   DEBUG: 2026-05-26 17:07:39,193:      pdf_renderer.py:  470: printSegment:  and 
+   DEBUG: 2026-05-26 17:07:39,194:      pdf_renderer.py:  470: printSegment: Python
+   DEBUG: 2026-05-26 17:07:39,217:      pdf_renderer.py:  470: printSegment: , with deep expertise in high-load microservices, concurrency, and
+   DEBUG: 2026-05-26 17:07:39,232:      pdf_renderer.py:  470: printSegment: performance optimization. Proven track record in leading complex system migrations, designing robust event-driven
+   DEBUG: 2026-05-26 17:07:39,238:      pdf_renderer.py:  470: printSegment: architectures, and integrating AI/ML capabilities into production environments. Experienced in fintech-adjacent
+   DEBUG: 2026-05-26 17:07:39,240:      pdf_renderer.py:  470: printSegment: domains, technical leadership (former CTO/CEO), and maintaining high-reliability systems for major platforms.
+   DEBUG: 2026-05-26 17:07:39,241:      pdf_renderer.py:  470: printSegment: Core Technologies 
+   DEBUG: 2026-05-26 17:07:39,242:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,242:      pdf_renderer.py:  470: printSegment:  Expertise
+   DEBUG: 2026-05-26 17:07:39,243:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,244:      pdf_renderer.py:  470: printSegment: Languages:
+   DEBUG: 2026-05-26 17:07:39,245:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,245:      pdf_renderer.py:  470: printSegment: Golang (Primary)
+   DEBUG: 2026-05-26 17:07:39,246:      pdf_renderer.py:  470: printSegment: , Python (Expert), SQL, TypeScript.
+   DEBUG: 2026-05-26 17:07:39,246:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,247:      pdf_renderer.py:  470: printSegment: Golang Specialization:
+   DEBUG: 2026-05-26 17:07:39,249:      pdf_renderer.py:  470: printSegment:  Concurrency (Goroutines, Channels), Lock-free programming, GC tuning,
+   DEBUG: 2026-05-26 17:07:39,250:      pdf_renderer.py:  470: printSegment: Generics, Standard Library, Context.
+   DEBUG: 2026-05-26 17:07:39,250:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,251:      pdf_renderer.py:  470: printSegment: Databases 
+   DEBUG: 2026-05-26 17:07:39,251:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,252:      pdf_renderer.py:  470: printSegment:  Storage:
+   DEBUG: 2026-05-26 17:07:39,252:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,253:      pdf_renderer.py:  470: printSegment: PostgreSQL
+   DEBUG: 2026-05-26 17:07:39,253:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,254:      pdf_renderer.py:  470: printSegment: MongoDB (Expert)
+   DEBUG: 2026-05-26 17:07:39,254:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,255:      pdf_renderer.py:  470: printSegment: Redis
+   DEBUG: 2026-05-26 17:07:39,255:      pdf_renderer.py:  470: printSegment: , MySQL, ElasticSearch.
+   DEBUG: 2026-05-26 17:07:39,256:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,256:      pdf_renderer.py:  470: printSegment: Messaging 
+   DEBUG: 2026-05-26 17:07:39,257:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,257:      pdf_renderer.py:  470: printSegment:  Event-Driven:
+   DEBUG: 2026-05-26 17:07:39,258:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,258:      pdf_renderer.py:  470: printSegment: RabbitMQ
+   DEBUG: 2026-05-26 17:07:39,259:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,260:      pdf_renderer.py:  470: printSegment: Kafka
+   DEBUG: 2026-05-26 17:07:39,260:      pdf_renderer.py:  470: printSegment:  (experience with asynchronous processing).
+   DEBUG: 2026-05-26 17:07:39,261:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,262:      pdf_renderer.py:  470: printSegment: Infrastructure 
+   DEBUG: 2026-05-26 17:07:39,262:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,263:      pdf_renderer.py:  470: printSegment:  DevOps:
+   DEBUG: 2026-05-26 17:07:39,264:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,264:      pdf_renderer.py:  470: printSegment: Docker
+   DEBUG: 2026-05-26 17:07:39,265:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,266:      pdf_renderer.py:  470: printSegment: Kubernetes
+   DEBUG: 2026-05-26 17:07:39,266:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,267:      pdf_renderer.py:  470: printSegment: Azure
+   DEBUG: 2026-05-26 17:07:39,267:      pdf_renderer.py:  470: printSegment: , Azure DevOps, Gitlab CI, Nginx, Linux.
+   DEBUG: 2026-05-26 17:07:39,268:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,269:      pdf_renderer.py:  470: printSegment: Architecture:
+   DEBUG: 2026-05-26 17:07:39,270:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,270:      pdf_renderer.py:  470: printSegment: Microservices
+   DEBUG: 2026-05-26 17:07:39,271:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,272:      pdf_renderer.py:  470: printSegment: RESTful APIs
+   DEBUG: 2026-05-26 17:07:39,272:      pdf_renderer.py:  470: printSegment: , 
+   DEBUG: 2026-05-26 17:07:39,273:      pdf_renderer.py:  470: printSegment: gRPC
+   DEBUG: 2026-05-26 17:07:39,274:      pdf_renderer.py:  470: printSegment: , GraphQL, Distributed Systems, High
+   DEBUG: 2026-05-26 17:07:39,274:      pdf_renderer.py:  470: printSegment: Availability.
+   DEBUG: 2026-05-26 17:07:39,275:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,275:      pdf_renderer.py:  470: printSegment: AI 
+   DEBUG: 2026-05-26 17:07:39,276:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,276:      pdf_renderer.py:  470: printSegment:  Data:
+   DEBUG: 2026-05-26 17:07:39,277:      pdf_renderer.py:  470: printSegment:  Vector Search (kNN), OpenAI API, LLM Integration.
+   DEBUG: 2026-05-26 17:07:39,278:      pdf_renderer.py:  470: printSegment: Professional Experience
+   DEBUG: 2026-05-26 17:07:39,279:      pdf_renderer.py:  470: printSegment: Simpals SRL
+   DEBUG: 2026-05-26 17:07:39,280:      pdf_renderer.py:  470: printSegment:  | Senior Backend Developer | 
+   DEBUG: 2026-05-26 17:07:39,281:      pdf_renderer.py:  470: printSegment: May 2023 – Present
+   DEBUG: 2026-05-26 17:07:39,293:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,294:      pdf_renderer.py:  470: printSegment: Modernization 
+   DEBUG: 2026-05-26 17:07:39,295:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,296:      pdf_renderer.py:  470: printSegment:  Go Migration:
+   DEBUG: 2026-05-26 17:07:39,297:      pdf_renderer.py:  470: printSegment:  Led the strategic migration of high-load legacy services from
+   DEBUG: 2026-05-26 17:07:39,298:      pdf_renderer.py:  470: printSegment: Python to 
+   DEBUG: 2026-05-26 17:07:39,299:      pdf_renderer.py:  470: printSegment: Golang
+   DEBUG: 2026-05-26 17:07:39,300:      pdf_renderer.py:  470: printSegment: , resulting in significant performance gains and reduced resource consumption.
+   DEBUG: 2026-05-26 17:07:39,300:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,301:      pdf_renderer.py:  470: printSegment: High-Load Architecture:
+   DEBUG: 2026-05-26 17:07:39,302:      pdf_renderer.py:  470: printSegment:  Design and support scalable microservices architecture for the 
+   DEBUG: 2026-05-26 17:07:39,303:      pdf_renderer.py:  470: printSegment: 999.md
+   DEBUG: 2026-05-26 17:07:39,304:      pdf_renderer.py:  470: printSegment: ecosystem
+   DEBUG: 2026-05-26 17:07:39,305:      pdf_renderer.py:  470: printSegment: , handling massive transaction volumes and user traffic.
+   DEBUG: 2026-05-26 17:07:39,305:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,306:      pdf_renderer.py:  470: printSegment: Advanced Engine Development:
+   DEBUG: 2026-05-26 17:07:39,308:      pdf_renderer.py:  470: printSegment:  Developed automated moderation and spam detection engines
+   DEBUG: 2026-05-26 17:07:39,309:      pdf_renderer.py:  470: printSegment: using complex pattern matching and Unicode normalization.
+   DEBUG: 2026-05-26 17:07:39,310:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,311:      pdf_renderer.py:  470: printSegment: Vector Search 
+   DEBUG: 2026-05-26 17:07:39,311:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,312:      pdf_renderer.py:  470: printSegment:  AI:
+   DEBUG: 2026-05-26 17:07:39,314:      pdf_renderer.py:  470: printSegment:  Implemented high-performance Vector Search using kNN and integrated
+   DEBUG: 2026-05-26 17:07:39,315:      pdf_renderer.py:  470: printSegment: OpenAI Embeddings for semantic search capabilities.
+   DEBUG: 2026-05-26 17:07:39,316:      pdf_renderer.py:  470: printSegment: Simpals SRL
+   DEBUG: 2026-05-26 17:07:39,317:      pdf_renderer.py:  470: printSegment:  | Software Developer | 
+   DEBUG: 2026-05-26 17:07:39,318:      pdf_renderer.py:  470: printSegment: Jan 2022 – May 2023
+   DEBUG: 2026-05-26 17:07:39,318:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,319:      pdf_renderer.py:  470: printSegment: Fullstack Development:
+   DEBUG: 2026-05-26 17:07:39,320:      pdf_renderer.py:  470: printSegment:  Launched three projects from scratch to MVP as a fullstack developer and
+   DEBUG: 2026-05-26 17:07:39,321:      pdf_renderer.py:  470: printSegment: architect.
+   DEBUG: 2026-05-26 17:07:39,321:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,322:      pdf_renderer.py:  470: printSegment: Product Support:
+   DEBUG: 2026-05-26 17:07:39,324:      pdf_renderer.py:  470: printSegment:  Maintained and optimized major products including 999.md, business.999.md,
+   DEBUG: 2026-05-26 17:07:39,324:      pdf_renderer.py:  470: printSegment: and Marketplace.
+   DEBUG: 2026-05-26 17:07:39,325:      pdf_renderer.py:  470: printSegment: Giter Parfum
+   DEBUG: 2026-05-26 17:07:39,326:      pdf_renderer.py:  470: printSegment:  | CTO and Head of Development | 
+   DEBUG: 2026-05-26 17:07:39,327:      pdf_renderer.py:  470: printSegment: Jan 2021 – Present
+   DEBUG: 2026-05-26 17:07:39,328:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,328:      pdf_renderer.py:  470: printSegment: Cloud Transformation:
+   DEBUG: 2026-05-26 17:07:39,329:      pdf_renderer.py:  470: printSegment:  Managed the transition of all sustainable applications to cloud solutions.
+   DEBUG: 2026-05-26 17:07:39,330:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,330:      pdf_renderer.py:  470: printSegment: Leadership:
+   DEBUG: 2026-05-26 17:07:39,332:      pdf_renderer.py:  470: printSegment:  Directed team of developers, managed existing systems support, and oversaw new
+   DEBUG: 2026-05-26 17:07:39,332:      pdf_renderer.py:  470: printSegment: application development.
+   DEBUG: 2026-05-26 17:07:39,333:      pdf_renderer.py:  470: printSegment: Amdaris SRL
+   DEBUG: 2026-05-26 17:07:39,333:      pdf_renderer.py:  470: printSegment:  | Software Developer / Technical Lead | 
+   DEBUG: 2026-05-26 17:07:39,334:      pdf_renderer.py:  470: printSegment: June 2020 – Dec 2021
+   DEBUG: 2026-05-26 17:07:39,335:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,335:      pdf_renderer.py:  470: printSegment: Polyglot Development:
+   DEBUG: 2026-05-26 17:07:39,336:      pdf_renderer.py:  470: printSegment:  Developed software using Python, .NET, and JS/TS.
+   DEBUG: 2026-05-26 17:07:39,337:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,337:      pdf_renderer.py:  470: printSegment: Technical Leadership:
+   DEBUG: 2026-05-26 17:07:39,338:      pdf_renderer.py:  470: printSegment:  Served as Technical Lead on multiple client projects, ensuring code quality
+   DEBUG: 2026-05-26 17:07:39,339:      pdf_renderer.py:  470: printSegment: and delivery.
+   DEBUG: 2026-05-26 17:07:39,339:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,340:      pdf_renderer.py:  470: printSegment: ML Integration:
+   DEBUG: 2026-05-26 17:07:39,341:      pdf_renderer.py:  470: printSegment:  Participated in the development of ML algorithms for internal projects.
+   DEBUG: 2026-05-26 17:07:39,342:      pdf_renderer.py:  470: printSegment: XOR.AI
+   DEBUG: 2026-05-26 17:07:39,342:      pdf_renderer.py:  470: printSegment:  | Senior Software Developer | 
+   DEBUG: 2026-05-26 17:07:39,343:      pdf_renderer.py:  470: printSegment: Nov 2019 – June 2020
+   DEBUG: 2026-05-26 17:07:39,343:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,344:      pdf_renderer.py:  470: printSegment: AI Development:
+   DEBUG: 2026-05-26 17:07:39,345:      pdf_renderer.py:  470: printSegment:  Focused on software development and AI support for recruitment automation.
+   DEBUG: 2026-05-26 17:07:39,346:      pdf_renderer.py:  470: printSegment: XOR.AI
+   DEBUG: 2026-05-26 17:07:39,346:      pdf_renderer.py:  470: printSegment:  | Lead Developer (Email Deliverability) | 
+   DEBUG: 2026-05-26 17:07:39,347:      pdf_renderer.py:  470: printSegment: June 2019 – Nov 2019
+   DEBUG: 2026-05-26 17:07:39,348:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,348:      pdf_renderer.py:  470: printSegment: System Optimization:
+   DEBUG: 2026-05-26 17:07:39,349:      pdf_renderer.py:  470: printSegment:  Developed and supported a mailing list delivery program. Led a team of
+   DEBUG: 2026-05-26 17:07:39,350:      pdf_renderer.py:  470: printSegment: junior developers.
+   DEBUG: 2026-05-26 17:07:39,351:      pdf_renderer.py:  470: printSegment: Luxury Air Travel LLC
+   DEBUG: 2026-05-26 17:07:39,351:      pdf_renderer.py:  470: printSegment:  | CTO | 
+   DEBUG: 2026-05-26 17:07:39,352:      pdf_renderer.py:  470: printSegment: March 2018 – June 2020
+   DEBUG: 2026-05-26 17:07:39,352:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,353:      pdf_renderer.py:  470: printSegment: Leadership 
+   DEBUG: 2026-05-26 17:07:39,353:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,354:      pdf_renderer.py:  470: printSegment:  ATS:
+   DEBUG: 2026-05-26 17:07:39,357:      pdf_renderer.py:  470: printSegment:  Led a team of 10 people in building an Applicant Tracking System (ATS).
+   DEBUG: 2026-05-26 17:07:39,357:      pdf_renderer.py:  470: printSegment: Supported CRM and ensured stable system operations.
+   DEBUG: 2026-05-26 17:07:39,358:      pdf_renderer.py:  470: printSegment: LibreApp
+   DEBUG: 2026-05-26 17:07:39,359:      pdf_renderer.py:  470: printSegment:  | CEO 
+   DEBUG: 2026-05-26 17:07:39,359:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,360:      pdf_renderer.py:  470: printSegment:  Founder | 
+   DEBUG: 2026-05-26 17:07:39,360:      pdf_renderer.py:  470: printSegment: Sept 2009 – Nov 2019
+   DEBUG: 2026-05-26 17:07:39,361:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,361:      pdf_renderer.py:  470: printSegment: Entrepreneurship:
+   DEBUG: 2026-05-26 17:07:39,362:      pdf_renderer.py:  470: printSegment:  Managed various custom software projects and overall business strategy.
+   DEBUG: 2026-05-26 17:07:39,363:      pdf_renderer.py:  470: printSegment: Selected Public Speaking 
+   DEBUG: 2026-05-26 17:07:39,364:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,365:      pdf_renderer.py:  470: printSegment:  Thought Leadership
+   DEBUG: 2026-05-26 17:07:39,365:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,366:      pdf_renderer.py:  470: printSegment: Moldova DevCon 2024:
+   DEBUG: 2026-05-26 17:07:39,367:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,367:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-26 17:07:39,368:      pdf_renderer.py:  470: printSegment: The Future Developer: Skills and Roles in an AI-Augmented Workforce
+   DEBUG: 2026-05-26 17:07:39,369:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-26 17:07:39,370:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-05-26 17:07:39,370:      pdf_renderer.py:  470: printSegment: (Discussion Panel).
+   DEBUG: 2026-05-26 17:07:39,371:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,371:      pdf_renderer.py:  470: printSegment: IT Career Expo 2023:
+   DEBUG: 2026-05-26 17:07:39,372:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,372:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-26 17:07:39,373:      pdf_renderer.py:  470: printSegment: Managing technical debt and modernizing old services
+   DEBUG: 2026-05-26 17:07:39,374:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-26 17:07:39,374:      pdf_renderer.py:  470: printSegment:  (Focus on Golang
+   DEBUG: 2026-05-26 17:07:39,375:      pdf_renderer.py:  470: printSegment: migration).
+   DEBUG: 2026-05-26 17:07:39,376:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,377:      pdf_renderer.py:  470: printSegment: AI Seminar 2025:
+   DEBUG: 2026-05-26 17:07:39,377:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-26 17:07:39,378:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-26 17:07:39,378:      pdf_renderer.py:  470: printSegment: AI Agents in Action
+   DEBUG: 2026-05-26 17:07:39,379:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-26 17:07:39,380:      pdf_renderer.py:  470: printSegment: .
+   DEBUG: 2026-05-26 17:07:39,381:      pdf_renderer.py:  470: printSegment: Education 
+   DEBUG: 2026-05-26 17:07:39,381:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-26 17:07:39,382:      pdf_renderer.py:  470: printSegment:  Certifications
+   DEBUG: 2026-05-26 17:07:39,382:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,383:      pdf_renderer.py:  470: printSegment: Education:
+   DEBUG: 2026-05-26 17:07:39,384:      pdf_renderer.py:  470: printSegment:  Incomplete Higher Education in Computer Science (BMSTU Kaluga, Tula State
+   DEBUG: 2026-05-26 17:07:39,385:      pdf_renderer.py:  470: printSegment: University).
+   DEBUG: 2026-05-26 17:07:39,386:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,386:      pdf_renderer.py:  470: printSegment: MongoDB Expert:
+   DEBUG: 2026-05-26 17:07:39,389:      pdf_renderer.py:  470: printSegment:  Certified in MongoDB Performance (M201), Data Modeling (M320),
+   DEBUG: 2026-05-26 17:07:39,390:      pdf_renderer.py:  470: printSegment: Aggregation Framework (M121), Cluster Administration (M103).
+   DEBUG: 2026-05-26 17:07:39,390:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-26 17:07:39,391:      pdf_renderer.py:  470: printSegment: Languages:
+   DEBUG: 2026-05-26 17:07:39,392:      pdf_renderer.py:  470: printSegment:  Russian (Native), English (B2 - Upper Intermediate), Romanian (B1).
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 0, [1, None, 1, 68.0]
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 1, [2, None, 1, 106.0]
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 2, [3, None, 1, 205.20000000000002]
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 3, [3, None, 1, 312.0]
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 4, [3, None, 1, 472.79999999999995]
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 5, [3, None, 2, 416.4]
+   DEBUG: 2026-05-26 17:07:39,393:      pdf_renderer.py:   53: 6, [3, None, 2, 529.1999999999999]
