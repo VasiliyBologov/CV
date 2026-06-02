@@ -1,0 +1,32 @@
+REQUIREMENTS:
+
+5+ years of backend engineering experience
+Experience as Senior Engineer, Architect, or Technical Lead
+Strong hands-on backend skills (Golang, PHP)
+Experience with low-latency, high-throughput systems
+Strong system design and architecture skills
+Ownership mindset, responsible for technical decisions and delivery
+English, Intermediate or higher
+RESPONSIBILITIES:
+
+Act as the Technical Lead of the product
+Take full ownership of product development and delivery, ensuring deadlines are met
+Manage the full software development lifecycle and engineering roadmap
+Design and drive the system architecture and technical implementation
+Ensure system scalability, reliability, and security
+Drive technical innovation, tool selection, and engineering best practices
+Work closely with business stakeholders to translate business requirements into technical solutions
+Support and mentor the engineering team
+Actively contribute as a hands-on engineer and participate in product development
+Continuously improve and evolve the product architecture and technical quality
+WE OFFER:
+
+Competitive salary
+High level of autonomy and full product ownership
+Friendly, goal-oriented team
+Comfortable working space and rest area
+Paid vacation (20+ days/year) and sick leave
+Corporate English classes
+Medical insurance
+
+https://careers.adtelligent.com/senior-backend-technical-lead/
