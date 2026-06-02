@@ -28,7 +28,7 @@ Senior Backend Developer with over 10 years of experience in architecting and im
 ## **Languages**
 - **Russian:** Native
 - **English:** B2 (Upper Intermediate)
-- **Romanian:** A2 (Elementary)
+- **Romanian:** B1 (Intermediate)
 
 ## **Work Experiences**
 
