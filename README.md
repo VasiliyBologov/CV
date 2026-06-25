@@ -15,7 +15,7 @@ Senior Backend Developer with over 10 years of experience in architecting and im
 # **Core Technologies & Expertise**
 
 **Back-end:** Golang (Primary), Python (Expert), FastAPI, Django, Flask, Tornado.
-**AI & Data:** Vector Search (kNN), OpenAI API, Embeddings, LLM Integration, MongoDB (Expert), ElasticSearch, PostgreSQL, MySQL, Redis.
+**AI & Data:** Agent Orchestration, Agents integration, MAS RAG architecture, OpenAI API, Opencode Integration, Embeddings, LLM Integration, Vector Search, MongoDB (Expert), ElasticSearch, PostgreSQL, MySQL, Redis.
 **Infrastructure:** Docker, Kubernetes, Azure / AzureDevOps, Gitlab CI, Linux, Nginx.
 **Architecture:** Microservices, REST, gRPC, GraphQL, RabbitMQ.
 
